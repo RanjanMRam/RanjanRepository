@@ -6,9 +6,9 @@ import java.io.IOException;
 import org.testng.annotations.Test;
 
 import CallingFunctionPackage.LoginLogout;
-@Test
+
 public class MainFile {
-	
+	@Test
 	public static void main(String[] args) throws IOException, InterruptedException
 	{
 		
