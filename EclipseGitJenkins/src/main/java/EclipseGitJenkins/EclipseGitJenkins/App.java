@@ -9,7 +9,7 @@ public class App
 {
 	@Test
     public void automationfunc()
-    {
+    {//Ranjan//
 	  System.setProperty("webdriver.chrome.driver", "D:\\Selenium\\chromedriver_win32\\chromedriver.exe");	
       WebDriver driver=new ChromeDriver();
       driver.get("http://automationpractice.com");
